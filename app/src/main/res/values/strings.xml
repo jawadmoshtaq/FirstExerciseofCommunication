@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First exercise of Network Communication</string>
+    <string name="please_input_a_number">Please input a number</string>
+    <string name="click">Click</string>
+</resources>
